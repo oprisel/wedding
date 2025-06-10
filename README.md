@@ -86,7 +86,4 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ```
 
----
 
-Let me know if you'd like me to generate the actual `LICENSE` file or the `test_script.js` prefilled for k6 as well.
-```
